@@ -14,6 +14,7 @@ spec:
     - alertmanager.lab.sorsby.co
     - vault.lab.sorsby.co
     - graphite.lab.sorsby.co
+    - home.lab.sorsby.co
   issuerRef:
     name: letsencrypt-production
     kind: ClusterIssuer
