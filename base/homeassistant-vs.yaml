@@ -11,6 +11,6 @@ spec:
   http:
     - route:
         - destination:
-            host: istiod-home-assistant.home-automation.svc.cluster.local
+            host: home-assistant.home-automation.svc.cluster.local
             port:
               number: 8080
